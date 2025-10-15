@@ -1,12 +1,4 @@
-diff --git a/README.md b/README.md
-index ae89b9f1d729bdd025f75e9b015300dde14ae6e6..b43c29c2b82f8580086a41238866ca646b9ac36a 100644
---- a/README.md
-+++ b/README.md
-@@ -1 +1,237 @@
--# NexusRP
-\ No newline at end of file
-+# NexusRP
-+
+
 +Serveur FiveM GTA V entièrement personnalisé basé sur le framework **qb-core**.
 +Ce dépôt fournit la configuration complète du serveur, des ressources personnalisées
 +et un script d'installation pour télécharger les dépendances officielles qb-core.
