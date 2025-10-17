@@ -35,6 +35,7 @@
 +  - Système bancaire complet Maze Bank avec agences, ATM interactifs, virements et relevés NUI.
 +  - Inventaire Nexus personnalisé avec sacs persistants, entrepôts privés et interface NUI lore friendly.
 +  - Réseau de franchises LSCustoms/Benny's avec NUI de customisation, partage des revenus et persistance des modifications véhicules.
++  - Système de permis complet : examen théorique unique voiture/camion/moto, parcours pratiques dédiés et permis de port d'arme avancé.
 +
 +## Prérequis
 +- [FXServer](https://docs.fivem.net/docs/server-manual/setting-up-a-server/) (artefacts récents).
